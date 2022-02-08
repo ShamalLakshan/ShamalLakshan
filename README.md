@@ -1,7 +1,27 @@
-### Hi there, I am Shamal Lakshan Perera
+# Hi there, I am Shamal Lakshan Perera
 
 
-[![Shamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamal-Lakshan&show_icons=true&bg_color=0e153a&title_color=e2f3f5&text_color=e2f3f5&icon_color=e2f3f5)](https://github.com/Shamal-Lakshan?tab=repositories)
+
+[![Shamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamal-Lakshan&show_icons=true&theme=github_dark)](https://github.com/Shamal-Lakshan?tab=repositories)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamal-Lakshan&theme=github_dark)](https://github.com/Shamal=Lakshan?tab=repositories)
+
+
+## Connect with me:
+
+[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail-id]
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin-link]
+[<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter-link]
+[<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram-link]
+[<img src="https://img.shields.io/badge/reddit-D14836?style=for-the-badge&logo=reddit&logoColor=white"/>][reddit-link]
+
+
+[gmail-id]: mailto:shamallakshan00600@gmail.com
+[instagram-link]: https://www.instagram.com/j_m_s_l_p/
+[twitter-link]: https://twitter.com/j_m_s_l_p
+[linkedin-link]: https://www.linkedin.com/in/shamal-lakshan-893985228/
+[reddit-link]: https://reddit.com/u/j-m-s-l-p
+
+---
 
 
 
