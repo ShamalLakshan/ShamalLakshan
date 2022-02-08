@@ -23,8 +23,12 @@
 [reddit-link]: https://reddit.com/u/j-m-s-l-p
 [web-link]: https://shamallakshan.netlify.app
 
----
+## Badges
 
+
+<p>
+  <a href="https://www.credly.com/badges/67814d4f-08f0-4e7a-ae01-69c472396914/public_url"><img src="./sources/cybersecurity-fundamentals.png" alt="CyberSecurity Fundamentals" height="60px"></a>
+</p>
 
 
 
