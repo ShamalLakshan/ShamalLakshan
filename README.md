@@ -28,6 +28,9 @@
 
 <p>
   <a href="https://www.credly.com/badges/67814d4f-08f0-4e7a-ae01-69c472396914/public_url"><img src="./sources/cybersecurity-fundamentals.png" alt="CyberSecurity Fundamentals" height="60px"></a>
+  <a href="https://api.eu.badgr.io/public/assertions/GpXqhD8UQPWQhWsPczEBDg?identity__email=shamallakshan00600%40gmail.com"><img src="./sources/CSI-Linux-Student.png" alt="CyberSecurity Fundamentals" height="60px"></a>
+  
+  
 </p>
 
 
