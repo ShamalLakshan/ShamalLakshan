@@ -25,7 +25,7 @@
 [twitter-link]: https://twitter.com/j_m_s_l_p
 [linkedin-link]: https://www.linkedin.com/in/shamal-lakshan-893985228/
 [reddit-link]: https://reddit.com/u/j-m-s-l-p
-[web-link]: https://shamallakshan.netlify.app
+[web-link]: https://shamallakshan.cf
 
 ## Badges
 
