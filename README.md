@@ -18,7 +18,7 @@
 [<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram-link]
 [<img src="https://img.shields.io/badge/reddit-D14836?style=for-the-badge&logo=reddit&logoColor=white"/>][reddit-link]
 [<img src="https://img.shields.io/badge/website-F14399?style=for-the-badge&logo=web&logoColor=white"/>][web-link]
-
+[<img src="https://img.shields.io/badge/blog-F14F99?&style=for-the-badge&logo=blog&logoColor=white"/>][blog-link]
 
 [gmail-id]: mailto:shamallakshan00600@gmail.com
 [instagram-link]: https://www.instagram.com/j_m_s_l_p/
@@ -26,6 +26,7 @@
 [linkedin-link]: https://www.linkedin.com/in/shamal-lakshan-893985228/
 [reddit-link]: https://reddit.com/u/j-m-s-l-p
 [web-link]: https://shamallakshan.cf
+[blog-link]: https://shamallakshan-blog.cf
 
 ## Badges
 
