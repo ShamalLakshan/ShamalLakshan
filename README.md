@@ -41,6 +41,9 @@
   
 </p>
 
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=Shamal-Lakshan&style=for-the-badge)
 
 
 <!--
