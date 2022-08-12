@@ -38,6 +38,7 @@
   <a href="https://www.credly.com/badges/efdf5b0a-df89-427f-9213-fa1b5df01f89/public_url"><img src="./sources/lfc110-fundamentals-of-professional-open-source-management.png" alt="Fundamentals of Professional Open Source Management (LSF110)" height="60px"></a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7E556BE2C1CD98D3F105391294D7677DE316AE0B474FCD12790B5BDC2B7FC10"><img src="./sources/oracle-foundations-badge.png" alt="Oracle Cloud Infrastructure Foundations 2021 Associate
 " height="60px"></a>
+<a href="https://www.credly.com/badges/9b439c45-1d1b-47c7-8157-abbdf9bda4a6/public_url"><img src="./sources/open-source-software-development-linux-and-git-specialization.png" alt="Open Source Software Development, Linux and Git Specialization" height="60px"></a>
   <a href="https://www.credly.com/badges/21c7680b-cf42-482b-ba0f-dd312f97a86b/public_url"><img src="./sources/ACE1.png" alt="Adobe Creative Educator Level 1" height="60px"></a>
   
 </p>
