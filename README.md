@@ -45,11 +45,7 @@
 
 [![@shamallakshan's Holopin board](https://holopin.me/shamallakshan)](https://holopin.io/@shamallakshan)
 
-## Profile Views
 
-![](https://komarev.com/ghpvc/?
-
-=Shamal-Lakshan&style=for-the-badge)
 
 
 <!--
