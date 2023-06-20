@@ -2,8 +2,9 @@
 
 
 
-[![Shamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamal-Lakshan&show_icons=true&theme=radical)](https://github.com/Shamal-Lakshan?tab=repositories)
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamal-Lakshan&theme=radical)](https://github.com/Shamal=Lakshan?tab=repositories)
+[![Shamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShamalLakshan&show_icons=true&theme=blueberry)](https://github.com/ShamalLakshan?tab=repositories)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamalLakshan&layout=compact&theme=blueberry)
+
 <!-- <p><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shamal-Lakshan&theme=github_dark" alt="Shamal-Lakshan"/></p>
 <p> <a href="https://github.com/Shamal-Lakshan"><img src="https://github-profile-trophy.vercel.app/?username=Shamal-Lakshan&margin-w=5&theme=github_dark" alt="Shamal-Lakshan" /></a> </p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamal-Lakshan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Shamal-Lakshan" /></p>
