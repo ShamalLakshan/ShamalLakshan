@@ -2,8 +2,12 @@
 
 
 
+<!-- 
+
 [![Shamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShamalLakshan&show_icons=true&theme=blueberry)](https://github.com/ShamalLakshan?tab=repositories)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamalLakshan&layout=compact&theme=blueberry)
+
+-->
 
 <!-- <p><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shamal-Lakshan&theme=github_dark" alt="Shamal-Lakshan"/></p>
 <p> <a href="https://github.com/Shamal-Lakshan"><img src="https://github-profile-trophy.vercel.app/?username=Shamal-Lakshan&margin-w=5&theme=github_dark" alt="Shamal-Lakshan" /></a> </p>
