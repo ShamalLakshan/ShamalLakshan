@@ -28,10 +28,10 @@
 [gmail-id]: mailto:shamallakshan00600@gmail.com
 [instagram-link]: https://www.instagram.com/j_m_s_l_p/
 [twitter-link]: https://twitter.com/JMShamalLakshan
-[linkedin-link]: https://www.linkedin.com/in/shamal-lakshan-893985228/
+[linkedin-link]: https://www.linkedin.com/in/shamallakshan/
 [reddit-link]: https://reddit.com/u/j-m-s-l-p
-[web-link]: https://shamal-lakshan.github.io
-[blog-link]: https://shamallakshan-blog.cf
+[web-link]: https://shamal-lakshan.me
+[blog-link]: https://shamallakshan-blog.netlify.app/
 
 ## Badges
 
