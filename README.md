@@ -30,8 +30,8 @@
 [twitter-link]: https://twitter.com/JMShamalLakshan
 [linkedin-link]: https://www.linkedin.com/in/shamallakshan/
 [reddit-link]: https://reddit.com/u/j-m-s-l-p
-[web-link]: https://shamal-lakshan.me
-[blog-link]: https://shamallakshan-blog.netlify.app/
+[web-link]: https://shamallakshan.me
+[blog-link]: https://blog.shamallakshan.me/
 
 ## Badges
 
