@@ -54,6 +54,9 @@
 
 <a href="https://www.buymeacoffee.com/shamallakshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+---
+
+[![wakatime](https://wakatime.com/badge/user/018cc807-49ff-4917-b8f4-ef050abcdb27.svg)](https://wakatime.com/@018cc807-49ff-4917-b8f4-ef050abcdb27)
 
 <!--
 **Shamal-Lakshan/Shamal-Lakshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
