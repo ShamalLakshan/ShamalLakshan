@@ -33,7 +33,7 @@
 [Twitter]: https://twitter.com/JMShamalLakshan
 [Wakatime]: https://wakatime.com/@ShamalLakshan
 [StackOverflow]: https://stackoverflow.com/users/18888841/shamal-lakshan
-[BuyMeACoffee]: https://www.buymeacoffee.com/shamallakshan"
+[BuyMeACoffee]: https://www.buymeacoffee.com/shamallakshan
 ```
 
 
