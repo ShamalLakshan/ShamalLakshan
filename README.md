@@ -17,21 +17,25 @@
 
 ## Connect with me:
 
-[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail-id]
+<!-- [<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail-id]
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin-link]
 [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter-link]
 [<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram-link]
 [<img src="https://img.shields.io/badge/reddit-D14836?style=for-the-badge&logo=reddit&logoColor=white"/>][reddit-link]
 [<img src="https://img.shields.io/badge/website-F14399?style=for-the-badge&logo=web&logoColor=white"/>][web-link]
-[<img src="https://img.shields.io/badge/blog-F14F99?&style=for-the-badge&logo=blog&logoColor=white"/>][blog-link]
+[<img src="https://img.shields.io/badge/blog-F14F99?&style=for-the-badge&logo=blog&logoColor=white"/>][blog-link] -->
 
-[gmail-id]: mailto:shamallakshan00600@gmail.com
-[instagram-link]: https://www.instagram.com/j_m_s_l_p/
-[twitter-link]: https://twitter.com/JMShamalLakshan
-[linkedin-link]: https://www.linkedin.com/in/shamallakshan/
-[reddit-link]: https://reddit.com/u/j-m-s-l-p
-[web-link]: https://shamallakshan.me
-[blog-link]: https://blog.shamallakshan.me/
+```md
+[Linkedin]: https://www.linkedin.com/in/shamallakshan/
+[Personal-Web]: https://shamallakshan.me
+[Blog]: https://blog.shamallakshan.me/
+[Instagram]: https://www.instagram.com/j_m_s_l_p/
+[Twitter]: https://twitter.com/JMShamalLakshan
+[Wakatime]: https://wakatime.com/@ShamalLakshan
+[StackOverflow]: https://stackoverflow.com/users/18888841/shamal-lakshan
+[BuyMeACoffee]: https://www.buymeacoffee.com/shamallakshan"
+```
+
 
 ## Badges
 
@@ -51,11 +55,11 @@
 <!----
 [![@shamallakshan's Holopin board](https://holopin.me/shamallakshan)](https://holopin.io/@shamallakshan)
 --->
----
+<!-- ---
 
 <a href="https://www.buymeacoffee.com/shamallakshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 150px !important;" ></a>
 
----
+--- -->
 
 [![wakatime](https://wakatime.com/badge/user/018cc807-49ff-4917-b8f4-ef050abcdb27.svg)](https://wakatime.com/@018cc807-49ff-4917-b8f4-ef050abcdb27)
 
