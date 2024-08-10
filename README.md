@@ -27,8 +27,8 @@
 
 ```md
 [Linkedin]: https://www.linkedin.com/in/shamallakshan/
-[Personal-Web]: https://shamallakshan.me
-[Blog]: https://blog.shamallakshan.me/
+[Personal-Web]: https://shamallakshan.com/
+[Blog]: https://blog.shamallakshan.com/
 [Instagram]: https://www.instagram.com/j_m_s_l_p/
 [Twitter]: https://twitter.com/JMShamalLakshan
 [Wakatime]: https://wakatime.com/@ShamalLakshan
