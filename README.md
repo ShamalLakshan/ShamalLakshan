@@ -29,8 +29,6 @@
 [Linkedin](https://www.linkedin.com/in/shamallakshan/)
 [Personal-Web](https://shamallakshan.com/)
 [Blog](https://blog.shamallakshan.com/)
-[Instagram](https://www.instagram.com/j_m_s_l_p/)
-[Twitter](https://twitter.com/JMShamalLakshan)
 [Wakatime](https://wakatime.com/@ShamalLakshan)
 [StackOverflow](https://stackoverflow.com/users/18888841/shamal-lakshan)
 [BuyMeACoffee](https://www.buymeacoffee.com/shamallakshan)
